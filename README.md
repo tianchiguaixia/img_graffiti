@@ -3,4 +3,4 @@
 - 2.三个模型都可以结合自己数据进行微调，提高垂直领域的效果。
 
 # 可视化展示
-![Image 1](./imgs/test.png)  ![Image 2](./imgs/output_test.png)
+![Image 1](./imgs/test.png)  ![Image 2](./imgs/test2.png)
